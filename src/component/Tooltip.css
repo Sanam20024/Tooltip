@@ -1,4 +1,8 @@
-  /* tooltip container div which contain button and tootltip */
+body{
+    background-color: blueviolet;
+  }
+
+ /* tooltip container div which contain button and tootltip */
   .tootltip-container{
     position: relative;
     display: inline-block;
